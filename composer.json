@@ -1,0 +1,19 @@
+{
+  "name": "jhezicotheolova/belajar-php-compososer-library",
+  "description": "Library Composer Hello",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "JhezicoTheolova\\BelajarPhpCompososerLibrary\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Jhezico",
+      "email": "jhezico@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=8.0"
+  }
+}
