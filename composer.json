@@ -4,7 +4,7 @@
   "type": "library",
   "autoload": {
     "psr-4": {
-      "JhezicoTheolova\\BelajarPhpCompososerLibrary\\": "src/"
+      "JhezicoTheolova\\BelajarPhpComposerLibrary\\": "src/"
     }
   },
   "authors": [
