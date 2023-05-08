@@ -1,10 +1,10 @@
 {
-  "name": "jhezicotheolova/belajar-php-compososer-library",
+  "name": "jhezicotheolova/belajar-php-composer-library",
   "description": "Library Composer Hello",
   "type": "library",
   "autoload": {
     "psr-4": {
-      "JhezicoTheolova\\BelajarPhpComposerLibrary\\": "src/"
+      "JhezicoTheolova\\Belajar\\": "src/"
     }
   },
   "authors": [
